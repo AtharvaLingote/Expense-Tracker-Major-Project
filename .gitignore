@@ -1,0 +1,11 @@
+# Ignore class files
+*.class
+
+# Ignore DB and CSV if not needed
+expenses.db
+expenses.csv
+
+# Ignore VSCode settings (if any)
+.vscode/
+.png
+lib/
